@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" time="1.871000" tests="6" errors="0" skipped="0" failures="5">
+    <testcase name="Sample Test" classname="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" time="1.334000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 1" classname="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" time="0.180000"/>
+    <testcase name="Additional Test 2" classname="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" time="0.060000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 3" classname="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" time="0.127000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 4" classname="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" time="0.113000">
+        <failure>
+        </failure>
+    </testcase>
+    <testcase name="Additional Test 5" classname="com.hackerrank.stocktrade.HttpJsonDynamicUnitTest" time="0.057000">
+        <failure>
+        </failure>
+    </testcase>
+</testsuite>
